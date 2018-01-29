@@ -23,8 +23,11 @@
 # inherit from zero-common
 include device/samsung/zero-common/BoardConfigCommon.mk
 
+# OTA
+BLOCK_BASED_OTA := false
+
 # Assert
-TARGET_OTA_ASSERT_DEVICE := zerofltexx,zeroflte
+TARGET_OTA_ASSERT_DEVICE := zerofltexx,zeroflte,zeroltexx,zerolte,zeroflteskt,zerolteskt
 
 # Include path
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/zerofltexx/include
