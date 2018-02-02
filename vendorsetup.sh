@@ -19,4 +19,5 @@ add_lunch_combo carbon_zerofltexx-userdebug
 add_lunch_combo aosp_zerofltexx-userdebug
 add_lunch_combo lineage_zerofltexx-userdebug
 add_lunch_combo slim_zerofltexx-userdebug
+add_lunch_combo cos_zerofltexx-userdebug
 add_lunch_combo dnd_zerofltexx-userdebug
