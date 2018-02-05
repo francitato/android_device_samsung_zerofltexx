@@ -6,5 +6,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/dnd.mk \
     $(LOCAL_DIR)/slim.mk \
     $(LOCAL_DIR)/cos.mk \
+    $(LOCAL_DIR)/aicp.mk \
     $(LOCAL_DIR)/dot.mk \
     $(LOCAL_DIR)/aosp_zerofltexx.mk
