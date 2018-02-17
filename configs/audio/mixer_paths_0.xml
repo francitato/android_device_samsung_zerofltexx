@@ -2543,10 +2543,10 @@
 	</path>
 
 	<path name="gain-media-speaker">
-		<ctl name="DSP5L Input 1 Volume" value="28" />
-		<ctl name="DSP5L Input 2 Volume" value="28" />
-		<ctl name="AIF4TX1 Input 1 Volume" value="40" />
-		<ctl name="AIF4TX2 Input 1 Volume" value="40" />
+		<ctl name="DSP5L Input 1 Volume" value="27" />
+		<ctl name="DSP5L Input 2 Volume" value="27" />
+		<ctl name="AIF4TX1 Input 1 Volume" value="36" />
+		<ctl name="AIF4TX2 Input 1 Volume" value="36" />
 	</path>
 
 	<path name="gain-media-headset">
